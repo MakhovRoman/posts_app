@@ -1,7 +1,5 @@
 # Posts
 
-Проект сделан по учебному видео с небольшими доработками.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
