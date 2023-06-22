@@ -11,17 +11,13 @@
 
 ### `npm start`
 
+Запускает тесты
+
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Сборка проекта
 
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 ## TODO:
 - перенести проект на TypeScript
