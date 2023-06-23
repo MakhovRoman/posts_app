@@ -22,3 +22,7 @@
 ## TODO:
 - перенести проект на TypeScript
 - написать тесты
+
+## Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,sass,react,js)
